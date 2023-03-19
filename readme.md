@@ -1,7 +1,6 @@
 # Bandwidth Capacity Protocol
 
 ## 前言
-***
 
 欢迎来到带宽电容协议（BCP）的文档！
 
@@ -14,7 +13,6 @@
 * 仅将Symmetric NAT称为Hard NAT，不考虑其他特殊NAT类型情况。
 
 ## 基本原理
-***
 
 好了，现在你知道Easy NAT-Easy NAT与Easy NAT-Hard NAT情况是可以直接打洞穿透的，而Hard NAT-Hard NAT无法直接穿透，需要使用中继，对吗？
 
@@ -29,7 +27,6 @@ BCP将要求Easy NAT用户共享出自己的一部分空闲带宽，并用网络
 BCP将使用端到端加密以保证数据安全。
 
 ## 如何实现
-***
 
 我们推荐您按照以下文档中规定的规范实现服务端和客户端，如果您对以下的规范有什么建议欢迎提Issue！
 * [服务端规范](server-standard.md)

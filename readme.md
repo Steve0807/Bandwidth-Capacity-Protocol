@@ -26,8 +26,6 @@ BCP将要求Easy NAT用户共享出自己的一部分空闲带宽，并用网络
 
 BCP将使用端到端加密以保证数据安全。
 
-## 如何实现
+## 更多内容
 
-我们推荐您按照以下文档中规定的规范实现服务端和客户端，如果您对以下的规范有什么建议欢迎提Issue！
-* [服务端规范](server-standard.md)
-* [客户端规范](client-standard.md)
+请参阅[Wiki](https://github.com/MC-XiaoHei/Bandwidth-Capacity-Protocol/wiki)

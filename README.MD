@@ -1,8 +1,8 @@
-# Bandwidth Capacity Protocol
+# Triode
 
 简介没写捏
 
-本项目的大部分内容都在[Wiki](https://github.com/Xor7Studio/Bandwidth-Capacity-Protocol/wiki)中，但在阅读Wiki前，请确保您：
+本项目的大部分内容都在[Wiki](https://github.com/Xor7Studio/Triode/wiki)中，但在阅读Wiki前，请确保您：
 * 已经阅读并理解了 [NAT 穿透是如何工作的](https://arthurchiao.art/blog/how-nat-traversal-works-zh/) 中的大部分内容
 * 能够在非极端情况下穿透Easy NAT-Easy NAT，Easy NAT-Hard NAT，并建立连接
 

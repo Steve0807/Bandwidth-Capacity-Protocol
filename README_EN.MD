@@ -1,6 +1,6 @@
 # Triode
-> <a href="README.MD">中文</a> | <a href="README_EN.MD">English</a>
->
+<a href="README.MD">中文</a> | <a href="README_EN.MD">English</a>
+
 > In electronics, a Triode can be used to control a larger current with a smaller.
 > 
 > And the project Triode enables the use of a small network bandwidth to control a very large pool of bandwidth and relay data.

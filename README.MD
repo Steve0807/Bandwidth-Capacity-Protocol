@@ -1,5 +1,7 @@
-<h2>Triode <h2/><a href="README_EN.MD">English</a> | <a href="README.MD">中文</a>
-
+# Triode 
+<p>
+<a href="README_EN.MD">English</a> | <a href="README.MD">中文</a>
+</p>
 >
 > 在电路中，三极管可以使用较小的电流控制较大的电流，
 > 

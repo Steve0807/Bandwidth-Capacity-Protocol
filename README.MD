@@ -1,8 +1,6 @@
 # Triode 
-<p>
 <a href="README_EN.MD">English</a> | <a href="README.MD">中文</a>
-</p>
->
+
 > 在电路中，三极管可以使用较小的电流控制较大的电流，
 > 
 > 而Triode项目则可以使用较小的带宽去控制非常大的带宽池，并用于中继数据。

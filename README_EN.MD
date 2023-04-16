@@ -1,5 +1,5 @@
 # Triode
-<a href="README.MD">中文</a> | <a href="README_EN.MD">English</a>
+<a>English</a> | <a href="README.MD">中文</a>
 
 > In electronics, a Triode can be used to control a larger current with a smaller.
 > 

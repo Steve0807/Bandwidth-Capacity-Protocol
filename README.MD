@@ -1,15 +1,11 @@
 # Triode
-<p align="right">
-  <a href="README.md">中文</a> |
-  <a href="README_EN.md">English</a>
-</p>
-
-
+> <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
+>
 > 在电路中，三极管可以使用较小的电流控制较大的电流，
 > 
 > 而Triode项目则可以使用较小的带宽去控制非常大的带宽池，并用于中继数据。
 
-Triode是一个规范，符合Triode规范的实现应能实现如下功能：
+### Triode是一个规范，符合Triode规范的实现应能实现如下功能：
 
 * 在任意两个客户端间建立UDP隧道
 * 实现第一项的同时，无需服务器中转任何流量

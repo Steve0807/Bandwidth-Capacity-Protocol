@@ -1,4 +1,4 @@
-# Bandwidth Capacity Protocol
+# Triode
 * In case of any ambiguity, the meaning expressed in the [README.md (ZH-CN)](./README.md) shall prevail.
 
 ### Most of the content of this project is on [Wiki](https://github.com/Xor7Studio/Bandwidth-Capacity-Protocol/wiki), Before reading the Wiki, please ensure that you:
